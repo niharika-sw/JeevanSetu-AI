@@ -1,0 +1,6 @@
+{
+  "name": "JeevanSetu AI",
+  "description": "AI-Powered Automated Accident Detection & Emergency Response Agent - Detect. Respond. Save Seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
